@@ -1,2 +1,3 @@
-# vf-politko-victor-3
-Учебный репозиторий Виктора Политко. 3 курс.
+# Личный проект - "D.L.K"
+Студент [Политко Виктор] [https://t.me/politkovd]
+Наставник [Вячеслав Федченко] [https://t.me/vyacheslav_fedchenko]

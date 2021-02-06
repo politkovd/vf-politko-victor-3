@@ -1,0 +1,129 @@
+
+.collection-wrapper{
+    position: relative;
+    margin-top: 129px;
+    background-color: #EEE4DB;
+    min-height: 372px;
+    max-width: 1180px;
+}
+
+.collection-number{
+    margin-bottom: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 73px;
+    color: rgba(30, 6, 6, 0.05);
+}
+
+.collection-button-block{
+    position: absolute;
+    top: 17px;
+    left: 28px;
+    display: flex;
+    flex-direction: column;
+}
+
+.collection-title-block{
+    padding-top: 89px;
+    margin-left: 133px;
+}
+
+.collection-button{
+    margin-bottom: 11px;
+    width: 31px;
+    height: 3px;
+    background-color:#D6CAC2;
+    border: none;
+}
+
+
+.collection-button:hover{
+    display: flex;
+    flex-direction: column;
+    width: 31px;
+    height: 3px;
+    background-color:#1E0606;
+    cursor: pointer;
+    border: none;
+}
+
+
+.collection-title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 44px;
+    color: #1E0606;
+    width: 307px;
+    height: 88px;
+
+}
+
+.collection-design{
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    color: #1E0606;
+    margin-top: 20px;
+}
+
+.collection-image{
+    position: absolute;
+    left: 445px;
+    bottom: 0px;
+    
+}
+
+.collection-button-explore{
+    display: inline-block;
+    margin-top: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 9px 22px;
+    border: none;
+}
+
+.collection-button-explore:hover{
+    background-color: #C29974;
+}
+
+.collection-button-explore:focus{
+    outline-color: #C29974;
+}
+
+.collection-button-explore:active{
+    background-color: #CFAF91;
+}
+
+.collection-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 39px;
+    background-color: #C29974;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 0;
+}
+
+.active.collection-button{
+    background-color: #1E0606;
+}

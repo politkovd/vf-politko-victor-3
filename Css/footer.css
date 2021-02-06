@@ -84,8 +84,6 @@
     opacity: 0.2;
 }
 
-.connect-block {
-}
 
 .connect-block-form {
     width: 380px;
@@ -126,8 +124,6 @@
     margin-right: 10px;
 }
 
-.connect-block-form-image {
-}
 
 .connect-block-form-image:hover {
     opacity: 0.5;
@@ -168,20 +164,20 @@
 }
 
 .rating-star:hover {
-    background-image: url(/images/stars/star-hover.svg);
+    background-image: url(/Products/stars/star-hover.svg);
 }
 
 .rating-star:checked {
-    background-image: url(/images/stars/Star-active.svg);
+    background-image: url(/Products/stars/Star-active.svg);
 }
 
 .rating-star:hover ~ .rating-star {
-    background-image: url(/images/stars/star.svg);
+    background-image: url(/Products/stars/star.svg);
 }
 
 .rating-group {
     position: relative;
-    background-image: url(/images/stars/star.svg);
+    background-image: url(/Products/stars/star.svg);
     width: 85px;
     appearance: none;
     height: 16px;

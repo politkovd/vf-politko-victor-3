@@ -23,7 +23,7 @@
 }
 
 .products-menu-item-kids{
-    background-image: url(/images/produtcs/1.jpg);
+    /* background-image: url(/Pictures/products/1.jpg); */
     width: 280px;
     height: 270px;
     display: flex;
@@ -33,7 +33,7 @@
 }  
 
 .products-menu-item-shop{
-    background-image: url(/images/produtcs/2.jpg);
+    background-image: url(/Pictures/products/2.jpg);
     width: 280px;
     height: 270px;
     display: flex;
@@ -43,7 +43,7 @@
 }  
 
 .products-menu-item-toys{
-    background-image: url(/images/produtcs/3.jpg);
+    background-image: url(/Pictures/products/3.jpg);
     width: 280px;
     height: 270px;
     display: flex;
@@ -53,7 +53,7 @@
 }  
 
 .products-menu-item-accessories{
-    background-image: url(/images/produtcs/4.jpg);
+    background-image: url(/Pictures/products/4.jpg);
     width: 280px;
     height: 270px;
     display: flex;
@@ -110,7 +110,7 @@
     background-repeat: no-repeat;
     width: 37px;
     height: 37px;
-    background-image: url(/images/buttons/Vector.svg);
+    background-image: url(/Pictures/buttons/Vector.svg);
     border: none;
     transform: rotate(180deg);
     background-color: #E2F1F8;
@@ -123,7 +123,7 @@
     background-repeat: no-repeat;
     width: 37px;
     height: 37px;
-    background-image: url(/images/buttons/Vector.svg);
+    background-image: url(/Pictures/buttons/Vector.svg);
     border: none;
     background-color: #E2F1F8;
     margin-right: 20px;
@@ -131,10 +131,10 @@
 
 
 .products-button-left:hover,.products-button-right:hover{
-    background-image: url(/images/buttons/Vector-hover.svg);
+    background-image: url(/Pictures/buttons/Vector-hover.svg);
     cursor: pointer;
 }
 
 .products-button-left:active,.products-button-right:active{
-    background-image: url(/images/buttons/Vector-active.svg);
+    background-image: url(/Pictures/buttons/Vector-active.svg);
 }
